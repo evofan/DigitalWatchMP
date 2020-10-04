@@ -8,6 +8,14 @@ Digital Watch for desktop apps.
 
 <img src="https://evofan.github.io/DigitalWatchMP/screenshot/pic_hw07.png" width="50%">  
 
+Download alert  
+<img src="https://evofan.github.io/DigitalWatchMP/screenshot/pic_alert_download.png" width="50%">  
+「破棄」してないで「継続」を選択  
+
+Install alert  
+<img src="https://evofan.github.io/DigitalWatchMP/screenshot/pic_alert_security.png" width="50%">  
+「詳細」を選んだ後に「実行」を選択  
+
 reference  
 
 **瞬速デザイン素材集 Photoshop Design Tools シェイプ＆カラー**  
