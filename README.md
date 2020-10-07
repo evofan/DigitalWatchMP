@@ -4,7 +4,7 @@
 Digital Watch for desktop apps.  
 
 **DOWNLOAD**  
-[https://evofan.github.io/DigitalWatchMP/dist/HalloweenWatch20201004.exe](https://evofan.github.io/DigitalWatchMP/dist/HalloweenWatch20201004.exe)  
+右メニューのReleasesからHalloweenWatch20201004.zipをダウンロード。  
 
 <img src="https://evofan.github.io/DigitalWatchMP/screenshot/pic_hw07.png" width="50%">  
 
